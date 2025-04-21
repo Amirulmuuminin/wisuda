@@ -81,7 +81,7 @@
 
 ---
 
-## 📂 7. Desain – Habibah, Sania
+## 📂 7. Desain – Sania
 
 | Target             | Rencana Aksi           | Timeline         | Progress |
 | ------------------ | ---------------------- | ---------------- | -------- |
@@ -140,6 +140,14 @@
 | SISWA-SISWI TELADAN           | Adanya 4 nama untuk kategori siswa-siswi teladan | 1 minggu sebelum | ⏳ 0%    |
 | SISWA-SISWI HAFALAN TERBANYAK | Adanya 4 nama untuk kategori siswa-siswi hafalan | 1 minggu sebelum | ⏳ 0%    |
 | HADIAH PLAKAT PENGHARGAAN     | Hadiah sudah stand by di sekolah                 | 1 minggu sebelum | ⏳ 0%    |
+
+---
+
+## 📂 12. Foto Resmi – Habibah dan Rahma
+
+| Target       | Rencana Aksi               | Timeline | Progress |
+| ------------ | -------------------------- | -------- | -------- |
+| MEMANDU FOTO | Mengarahkan anak saat foto | Hari H   | ⏳ 0%    |
 
 ---
 
