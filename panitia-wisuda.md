@@ -83,11 +83,13 @@
 
 ## 📂 7. Desain – Sania
 
-| Target             | Rencana Aksi           | Timeline         | Progress |
-| ------------------ | ---------------------- | ---------------- | -------- |
-| DESAIN PHOTO BOOTH | Cetak desain dan setup | 1 minggu sebelum | ⏳ 0%    |
-| DESAIN BACKDROP    | Selesai cetak          | 1 minggu sebelum | ⏳ 0%    |
-| DESAIN FLAYER      | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
+| Target                | Rencana Aksi           | Timeline         | Progress |
+| --------------------- | ---------------------- | ---------------- | -------- |
+| DESAIN PHOTO BOOTH    | Cetak desain dan setup | 1 minggu sebelum | ⏳ 0%    |
+| DESAIN BACKDROP       | Selesai cetak          | 1 minggu sebelum | ⏳ 0%    |
+| DESAIN FLAYER         | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
+| DESAIN KUPON          | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
+| DESAIN SELAMAT DATANG | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
 
 ---
 
@@ -180,3 +182,12 @@
 | 11.35 – 11.40   | Do’a                                                     | Ust. Syahrun, Lc                                                                              |
 | 11.40 – 11.45   | Penutupan                                                | MC (Ust Hendro, Ust Walid)                                                                    |
 | 11.45 – selesai | Foto bersama dan Sholat Dzuhur                           | MC dan Bag Foto Booth                                                                         |
+
+Tambahan:
+
+- Operator
+- kategori siswa berprestasi
+- undang walikota
+- Penampilan sains (x)
+- Selempang warna merah
+- Penyampaian program yang telah dilakukan
