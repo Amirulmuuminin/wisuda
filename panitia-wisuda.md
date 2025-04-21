@@ -191,3 +191,4 @@ Tambahan:
 - Penampilan sains (x)
 - Selempang warna merah
 - Penyampaian program yang telah dilakukan
+- Seragam ustadz batik
