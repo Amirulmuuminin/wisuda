@@ -183,7 +183,7 @@
 | 11.40 – 11.45   | Penutupan                                                | MC (Ust Hendro, Ust Walid)                                                                    |
 | 11.45 – selesai | Foto bersama dan Sholat Dzuhur                           | MC dan Bag Foto Booth                                                                         |
 
-Tambahan:
+# 📂 Tambahan:
 
 - Operator
 - kategori siswa berprestasi
@@ -192,3 +192,4 @@ Tambahan:
 - Selempang warna merah
 - Penyampaian program yang telah dilakukan
 - Seragam ustadz batik
+- Vendor Foto
