@@ -87,7 +87,6 @@
 | --------------------- | ---------------------- | ---------------- | -------- |
 | DESAIN PHOTO BOOTH    | Cetak desain dan setup | 1 minggu sebelum | ⏳ 0%    |
 | DESAIN BACKDROP       | Selesai cetak          | 1 minggu sebelum | ⏳ 0%    |
-| DESAIN FLAYER         | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
 | DESAIN KUPON          | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
 
 ---
@@ -186,3 +185,5 @@
 - Penyampaian program yang telah dilakukan
 - Seragam ustadz batik
 - Vendor Foto
+- saat wali datang hanya diberi snack.
+- makan berat akan diantarkan oleh ob berdasarkan data wali yang mendaftar makan.
