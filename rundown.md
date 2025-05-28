@@ -74,18 +74,6 @@
 
 ---
 
-### 6. Pemanggilan Siswa/i & Penyerahan Sertifikat
-
-🕓 08.20 – 08.30  
-📌 PIC: Bagian Acara (Ust Utsman / Ust Hendro yang manggil)
-
-- [x] Daftar nama dan pencapaian
-- [ ] Daftar lomba yang diikuti anak
-- [ ] PPT dengan profil siswa (nama, ttl, ayah, bunda, hafalan, prestasi, hobi, cita2)
-- [ ] video diputar sebelum pemanggilan
-
----
-
 ### 7. Sambutan Ketua Yayasan
 
 🕓 08.30 – 08.35  
@@ -111,7 +99,19 @@
 
 ---
 
-### 9. Sambutan Wali Murid
+### 6. Pemanggilan Siswa/i & Penyerahan Sertifikat
+
+🕓 08.20 – 08.30  
+📌 PIC: Bagian Acara (Ust Utsman / Ust Hendro yang manggil)
+
+- [x] Daftar nama dan pencapaian
+- [ ] Daftar lomba yang diikuti anak
+- [ ] PPT dengan profil siswa (nama, ttl, ayah, bunda, hafalan, prestasi, hobi, cita2)
+- [ ] video diputar sebelum pemanggilan
+
+---
+
+### 9. Kesan dan Pesan Wali Murid
 
 🕓 08.40 – 08.45  
 📌 PIC: Wali Murid (Bpk. Dwi Budi Rahardjo)
