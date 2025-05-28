@@ -1,6 +1,6 @@
 ### Registrasi, Photo booth (07.30 – 08.00)
 
-- [ ] Meja registrasi
+- [x] Meja registrasi
 - [ ] Daftar hadir
 - [ ] Name tag peserta
 - [ ] Kamera & tripod
