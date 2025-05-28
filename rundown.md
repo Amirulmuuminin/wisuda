@@ -3,16 +3,8 @@
 🕓 07.30 – 08.00  
 📌 PIC: Bag Tamu – Ust Agus, Ust Basiyr, Usth Elma, Usth Binta
 
-<<<<<<< HEAD
 - [ ] Meja registrasi
 - [ ] Daftar hadir (sekretaris)
-=======
-- [x] Meja registrasi
-- [ ] Daftar hadir
-- [ ] Name tag peserta
-- [ ] Kamera & tripod
-- [ ] Dekorasi booth
->>>>>>> 4819e5c53eb3b1759537d526423385e36c1cf5a2
 
 ---
 
