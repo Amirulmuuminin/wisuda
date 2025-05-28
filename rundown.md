@@ -1,7 +1,5 @@
 ## 📋 CEKLIST KESIAPAN SEBELUM HARI-H WISUDA
 
-Mohon bantuannya untuk memastikan hal-hal berikut ini sudah SIAP sebelum hari-H:
-
 ### 1. Panggung
 
 - [x] Sudah dibooking
