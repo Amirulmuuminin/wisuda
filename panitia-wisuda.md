@@ -1,4 +1,4 @@
-# ✅ REKAP JOBDESK PANITIA WISUDA + TIMELINE
+# ✅ REKAP JOBDESK PANITIA TASYAKURAN + TIMELINE
 
 ## 📂 1. Sekretaris – Taufiq
 
@@ -14,7 +14,7 @@
 
 | Target              | Rencana Aksi                              | Timeline           | Progress |
 | ------------------- | ----------------------------------------- | ------------------ | -------- |
-| RAB ACARA           | Mengawal penyusunan RAB dari setiap PIC   | 1 bulan sebelum    | ⏳ 0%    |
+| RAB ACARA           | Mengawal penyusunan RAB dari setiap PIC   | 1 bulan sebelum    | ✅ 100%   |
 | ANGGARAN SETIAP PIC | Menyerahkan anggaran dana pada setiap PIC | 3-4 minggu sebelum | ⏳ 0%    |
 
 ---
@@ -33,7 +33,7 @@
 
 | Target                  | Rencana Aksi                              | Timeline         | Progress |
 | ----------------------- | ----------------------------------------- | ---------------- | -------- |
-| FIXASI LOKASI ACARA     | Komunikasi final dengan Kepsek            | 1 bulan sebelum  | ⏳ 0%    |
+| FIXASI LOKASI ACARA     | Komunikasi final dengan Kepsek            | 1 bulan sebelum  | ✅ 100%    |
 | SURAT APARAT SETEMPAT   | Menyerahkan surat ke aparat tertentu      | 3 minggu sebelum | ⏳ 0%    |
 | SURAT YAYASAN & ORTU    | Kirim surat ke Yayasan & orang tua SD/SMP | 3 minggu sebelum | ⏳ 0%    |
 | SURAT PEMATERI WISUDA   | Menyerahkan surat pada ustadz Haidar      | 3 minggu sebelum | ⏳ 0%    |
@@ -87,9 +87,7 @@
 | --------------------- | ---------------------- | ---------------- | -------- |
 | DESAIN PHOTO BOOTH    | Cetak desain dan setup | 1 minggu sebelum | ⏳ 0%    |
 | DESAIN BACKDROP       | Selesai cetak          | 1 minggu sebelum | ⏳ 0%    |
-| DESAIN FLAYER         | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
 | DESAIN KUPON          | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
-| DESAIN SELAMAT DATANG | Selesai ACC            | 1 minggu sebelum | ⏳ 0%    |
 
 ---
 
@@ -98,7 +96,6 @@
 | Target          | Rencana Aksi                             | Timeline         | Progress |
 | --------------- | ---------------------------------------- | ---------------- | -------- |
 | SERAGAM PANITIA | Pengadaan seragam panitia                | 1 minggu sebelum | ⏳ 0%    |
-| SELEMPANG       | Penyerahan selempang pada peserta wisuda | 1 minggu sebelum | ⏳ 0%    |
 | MEDALI          | Penyerahan medali pada peserta wisuda    | 1 minggu sebelum | ⏳ 0%    |
 | BENDERA         | Memastikan 2 tiang bendera merah putih   | 1 minggu sebelum | ⏳ 0%    |
 
@@ -118,8 +115,6 @@
 | --------------------- | --------------------------------- | ---------------- | -------- |
 | SEWA PANGGUNG & KURSI | Transaksi sewa panggung dan kursi | 1 minggu sebelum | ⏳ 0%    |
 | SEWA SOUND SYSTEM     | Transaksi sewa sound              | 1 minggu sebelum | ⏳ 0%    |
-| DESAIN BACKDROP       | Selesai cetak                     | 1 minggu sebelum | ⏳ 0%    |
-| DESAIN FLAYER         | Finalisasi dan distribusi         | 1 minggu sebelum | ⏳ 0%    |
 
 ---
 
@@ -153,7 +148,7 @@
 
 ---
 
-# ✅ Susunan Acara (Tahun Lalu)
+## ✅ Susunan Acara (Tahun Lalu)
 
 | **Pukul**       | **Acara**                                                | **PIC**                                                                                       |
 | --------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -183,12 +178,12 @@
 | 11.40 – 11.45   | Penutupan                                                | MC (Ust Hendro, Ust Walid)                                                                    |
 | 11.45 – selesai | Foto bersama dan Sholat Dzuhur                           | MC dan Bag Foto Booth                                                                         |
 
-Tambahan:
+## 📂 Tambahan:
 
 - Operator
 - kategori siswa berprestasi
-- undang walikota
-- Penampilan sains (x)
-- Selempang warna merah
 - Penyampaian program yang telah dilakukan
 - Seragam ustadz batik
+- Vendor Foto
+- saat wali datang hanya diberi snack.
+- makan berat akan diantarkan oleh ob berdasarkan data wali yang mendaftar makan.
