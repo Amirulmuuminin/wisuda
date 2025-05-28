@@ -10,11 +10,11 @@
 
 ### 3. Dekorasi & Desain
 
-- [ ] Sudah dibuat dan dicetak
+- [x] Sudah dibuat dan dicetak
 
 ### 4. Konsumsi
 
-- [ ] Snack & makanan utama sudah dipesan & terjadwal
+- [x] Snack & makanan utama sudah dipesan & terjadwal
 
 ### 5. PPT & Media
 
@@ -22,8 +22,8 @@
 
 ### 6. Daftar Penerima Penghargaan
 
-- [ ] Nama-nama murid penerima sudah disusun
-- [ ] Sertifikat sudah dibuat sesuai kategori
+- [x] Nama-nama murid penerima sudah disusun
+- [x] Sertifikat sudah dibuat sesuai kategori
 
 ---
 
@@ -32,8 +32,8 @@
 🕓 07.30 – 08.00  
 📌 PIC: Bag Tamu – Ust Agus, Ust Basiyr, Usth Elma, Usth Binta
 
-- [ ] Meja registrasi + Taplak meja (OB)
-- [ ] Daftar hadir (sekretaris)
+- [x] Meja registrasi (OB)
+- [x] Daftar hadir (sekretaris)
 
 ---
 
@@ -42,8 +42,8 @@
 🕓 07.30 – 08.00  
 📌 PIC: Usth Habibah dan Usth Rahma
 
-- [ ] Dekorasi booth (vendor foto)
-- [ ] Kamera (vendor foto)
+- [x] Dekorasi booth (vendor foto)
+- [x] Kamera (vendor foto)
 
 ---
 
@@ -52,7 +52,7 @@
 🕓 08.00 – 08.05  
 📌 PIC: Siswa Kelas 9 Putra (Ust Nawir/Ust Fauzan)
 
-- [ ] Persiapan
+- [x] Persiapan
 
 ---
 
@@ -61,7 +61,7 @@
 🕓 08.05 – 08.10  
 📌 PIC: Siswi Kelas 9 Putri (Usth Harmi)
 
-- [ ] Persiapan
+- [x] Persiapan
 
 ---
 
@@ -70,7 +70,7 @@
 🕓 08.10 – 08.20  
 📌 PIC: MC – Ust Sabil, Ust Fahmi
 
-- [ ] Persiapan
+- [x] Persiapan
 
 ---
 
@@ -79,7 +79,10 @@
 🕓 08.20 – 08.30  
 📌 PIC: Bagian Acara (Ust Utsman / Ust Hendro yang manggil)
 
-- [ ] Daftar nama dan pencapaian
+- [x] Daftar nama dan pencapaian
+- [ ] Daftar lomba yang diikuti anak
+- [ ] PPT dengan profil siswa (nama, ttl, ayah, bunda, hafalan, prestasi, hobi, cita2)
+- [ ] video diputar sebelum pemanggilan
 
 ---
 
@@ -111,16 +114,16 @@
 ### 9. Sambutan Wali Murid
 
 🕓 08.40 – 08.45  
-📌 PIC: Wali Murid (Fulan/Fulanah)
+📌 PIC: Wali Murid (Bpk. Dwi Budi Rahardjo)
 
-- [ ] Konfirmasi Melalui Surat dan Whatsapp
+- [x] Konfirmasi Melalui Surat dan Whatsapp
 
 ---
 
 ### 10. Tausiyah & Nasehat
 
 🕓 08.45 – 08.55  
-📌 PIC: Ustadz Haidar Bawazier
+📌 PIC: Ustadz Haidar Abdullah Bawazier
 
 - [ ] Konfirmasi Melalui Surat dan Whatsapp
 
@@ -139,18 +142,19 @@
 
 🕓 09.00 – 09.05  
 📌 PIC: Perwakilan Siswi Kelas 9 (Usth Silmi)
+Rania
 
-- [ ] Persiapan
+- [x] Persiapan
 
 ---
 
 ### 13. Nasyid Siswi
 
 🕓 09.05 – 09.10  
-📌 PIC: Perwakilan Siswi Kelas 9 (Usth Cindi)
+📌 PIC: Perwakilan Siswi Kelas 9 (Usth Sabila)
 
-- [ ] Persiapan
-- [ ] Media yang ditampilkan
+- [x] Persiapan
+- [x] Media yang ditampilkan
 
 ---
 
@@ -159,7 +163,7 @@
 🕓 09.10 – 09.25  
 📌 PIC: MC – Ust Sabil, Ust Fahmi atau Ust Utsman
 
-- [ ] Daftar penerima sesuai kategori
+- [x] Daftar penerima sesuai kategori
 
 ---
 
