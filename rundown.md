@@ -1,9 +1,40 @@
+## 📋 CEKLIST KESIAPAN SEBELUM HARI-H WISUDA
+
+Mohon bantuannya untuk memastikan hal-hal berikut ini sudah SIAP sebelum hari-H:
+
+### 1. Panggung
+
+- [x] Sudah dibooking
+
+### 2. Vendor Foto
+
+- [x] Sudah dikonfirmasi & siap dokumentasi acara
+
+### 3. Dekorasi & Desain
+
+- [ ] Sudah dibuat dan dicetak
+
+### 4. Konsumsi
+
+- [ ] Snack & makanan utama sudah dipesan & terjadwal
+
+### 5. PPT & Media
+
+- [ ] Sudah lengkap & siap ditampilkan
+
+### 6. Daftar Penerima Penghargaan
+
+- [ ] Nama-nama murid penerima sudah disusun
+- [ ] Sertifikat sudah dibuat sesuai kategori
+
+---
+
 ### 1. Registrasi
 
 🕓 07.30 – 08.00  
 📌 PIC: Bag Tamu – Ust Agus, Ust Basiyr, Usth Elma, Usth Binta
 
-- [ ] Meja registrasi
+- [ ] Meja registrasi + Taplak meja (OB)
 - [ ] Daftar hadir (sekretaris)
 
 ---
@@ -21,7 +52,7 @@
 ### 3. Tasmi' Putra
 
 🕓 08.00 – 08.05  
-📌 PIC: Siswa Kelas 9 Putra
+📌 PIC: Siswa Kelas 9 Putra (Ust Nawir/Ust Fauzan)
 
 - [ ] Persiapan
 
@@ -30,7 +61,7 @@
 ### 4. Tasmi' Putri
 
 🕓 08.05 – 08.10  
-📌 PIC: Siswi Kelas 9 Putri
+📌 PIC: Siswi Kelas 9 Putri (Usth Harmi)
 
 - [ ] Persiapan
 
@@ -57,7 +88,16 @@
 ### 7. Sambutan Ketua Yayasan
 
 🕓 08.30 – 08.35  
-📌 PIC: Bapak Agung Triyono Safar / Ust Muhammad Habibi, Lc. M.Pd
+📌 PIC: Bapak Agung Triyono Safar
+
+- [ ] Konfirmasi Melalui Surat dan Whatsapp
+
+---
+
+### 7. Sambutan Mudir
+
+🕓 08.30 – 08.35  
+📌 PIC: Ust Muhammad Habibi, Lc. M.Pd
 
 - [ ] Konfirmasi Melalui Surat dan Whatsapp
 
@@ -91,7 +131,7 @@
 ### 11. Pidato Bahasa Arab Putra
 
 🕓 08.55 – 09.00  
-📌 PIC: Perwakilan Siswa Kelas 9
+📌 PIC: Perwakilan Siswa Kelas 9 (Ust Ilham)
 
 - [ ] Persiapan
 
@@ -100,7 +140,7 @@
 ### 12. Pidato Bahasa Inggris Putri
 
 🕓 09.00 – 09.05  
-📌 PIC: Perwakilan Siswi Kelas 9
+📌 PIC: Perwakilan Siswi Kelas 9 (Usth Silmi)
 
 - [ ] Persiapan
 
@@ -109,7 +149,7 @@
 ### 13. Nasyid Siswi
 
 🕓 09.05 – 09.10  
-📌 PIC: Perwakilan Siswi Kelas 9
+📌 PIC: Perwakilan Siswi Kelas 9 (Usth Cindi)
 
 - [ ] Persiapan
 - [ ] Media yang ditampilkan
