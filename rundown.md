@@ -1,84 +1,145 @@
-### Registrasi, Photo booth (07.30 – 08.00)
+### 1. Registrasi
+
+🕓 07.30 – 08.00  
+📌 PIC: Bag Tamu – Ust Agus, Ust Basiyr, Usth Elma, Usth Binta
 
 - [ ] Meja registrasi
-- [ ] Daftar hadir
-- [ ] Name tag peserta
-- [ ] Kamera & tripod
-- [ ] Dekorasi booth
+- [ ] Daftar hadir (sekretaris)
 
-### Tasmi' Putra & Putri (08.00 – 08.10)
+---
 
-- [ ] Mic
-- [ ] Mushaf
-- [ ] Sound system
+### 2. Photo Booth
 
-### Pembukaan (08.10 – 08.20)
+🕓 07.30 – 08.00  
+📌 PIC: Usth Habibah dan Usth Rahma
 
-- [ ] Mic
-- [ ] Naskah MC & rundown
-- [ ] Sound system
+- [ ] Dekorasi booth (vendor foto)
+- [ ] Kamera (vendor foto)
 
-### Pemanggilan Siswa/i & Penyerahan Sertifikat (08.20 – 08.30)
+---
 
-- [ ] Sertifikat peserta
-- [ ] Mic
-- [ ] Daftar nama
+### 3. Tasmi' Putra
 
-### Sambutan Ketua Yayasan (08.30 – 08.35)
+🕓 08.00 – 08.05  
+📌 PIC: Siswa Kelas 9 Putra
 
-- [ ] Mic
-- [ ] Naskah sambutan
+- [ ] Persiapan
 
-### Sambutan Kepala Sekolah (08.35 – 08.40)
+---
 
-- [ ] Mic
-- [ ] Naskah sambutan
+### 4. Tasmi' Putri
 
-### Sambutan Wali Murid (08.40 – 08.45)
+🕓 08.05 – 08.10  
+📌 PIC: Siswi Kelas 9 Putri
 
-- [ ] Mic
-- [ ] Naskah sambutan (opsional)
+- [ ] Persiapan
 
-### Tausiyah & Nasehat (08.45 – 08.55)
+---
 
-- [ ] Mic
-- [ ] Podium
-- [ ] Sound system
+### 5. Pembukaan
 
-### Pidato Bahasa Arab Putra (08.55 – 09.00)
+🕓 08.10 – 08.20  
+📌 PIC: MC – Ust Sabil, Ust Fahmi
 
-- [ ] Mic
-- [ ] Teks pidato
+- [ ] Persiapan
 
-### Pidato Bahasa Inggris Putri (09.00 – 09.05)
+---
 
-- [ ] Mic
-- [ ] Teks pidato
+### 6. Pemanggilan Siswa/i & Penyerahan Sertifikat
 
-### Nasyid Siswi (09.05 – 09.10)
+🕓 08.20 – 08.30  
+📌 PIC: Bagian Acara (Ust Utsman / Ust Hendro yang manggil)
 
-- [ ] Mic
-- [ ] Musik pengiring (opsional)
-- [ ] Sound system
+- [ ] Daftar nama dan pencapaian
 
-### Pembagian Hadiah (09.10 – 09.25)
+---
 
-- [ ] Hadiah sesuai kategori
-- [ ] Daftar penerima
-- [ ] Mic
+### 7. Sambutan Ketua Yayasan
 
-### Doa (09.25 – 09.30)
+🕓 08.30 – 08.35  
+📌 PIC: Bapak Agung Triyono Safar / Ust Muhammad Habibi, Lc. M.Pd
 
-- [ ] Mic
-- [ ] Teks doa (opsional)
+- [ ] Konfirmasi Melalui Surat dan Whatsapp
 
-### Penutupan (09.30 – 09.35)
+---
 
-- [ ] Mic
-- [ ] Sound system
+### 8. Sambutan Kepala Sekolah
 
-### Foto bersama dan Lain-lain (09.35 – selesai)
+🕓 08.35 – 08.40  
+📌 PIC: Bapak Denis Taroreh
 
-- [ ] Kamera
-- [ ] Backdrop & pencahayaan
-- [ ] Daftar pengambilan foto (opsional)
+---
+
+### 9. Sambutan Wali Murid
+
+🕓 08.40 – 08.45  
+📌 PIC: Wali Murid (Fulan/Fulanah)
+
+- [ ] Konfirmasi Melalui Surat dan Whatsapp
+
+---
+
+### 10. Tausiyah & Nasehat
+
+🕓 08.45 – 08.55  
+📌 PIC: Ustadz Haidar Bawazier
+
+- [ ] Konfirmasi Melalui Surat dan Whatsapp
+
+---
+
+### 11. Pidato Bahasa Arab Putra
+
+🕓 08.55 – 09.00  
+📌 PIC: Perwakilan Siswa Kelas 9
+
+- [ ] Persiapan
+
+---
+
+### 12. Pidato Bahasa Inggris Putri
+
+🕓 09.00 – 09.05  
+📌 PIC: Perwakilan Siswi Kelas 9
+
+- [ ] Persiapan
+
+---
+
+### 13. Nasyid Siswi
+
+🕓 09.05 – 09.10  
+📌 PIC: Perwakilan Siswi Kelas 9
+
+- [ ] Persiapan
+- [ ] Media yang ditampilkan
+
+---
+
+### 14. Pembagian Hadiah
+
+🕓 09.10 – 09.25  
+📌 PIC: MC – Ust Sabil, Ust Fahmi atau Ust Utsman
+
+- [ ] Daftar penerima sesuai kategori
+
+---
+
+### 15. Do'a
+
+🕓 09.25 – 09.30  
+📌 PIC: Ust Walid / Ust Ja'far
+
+---
+
+### 16. Penutupan
+
+🕓 09.30 – 09.35  
+📌 PIC: MC – Ust Sabil, Ust Fahmi
+
+---
+
+### 17. Foto Bersama & Lain-lain
+
+🕓 09.35 – Selesai  
+📌 PIC: Bag Foto Booth
