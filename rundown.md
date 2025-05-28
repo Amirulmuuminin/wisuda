@@ -74,7 +74,7 @@
 
 ---
 
-### 7. Sambutan Ketua Yayasan
+### 6. Sambutan Ketua Yayasan
 
 🕓 08.30 – 08.35  
 📌 PIC: Bapak Agung Triyono Safar
@@ -98,8 +98,10 @@
 📌 PIC: Bapak Denis Taroreh
 
 ---
+### 9. Pemutaran Video Siswa
+---
 
-### 6. Pemanggilan Siswa/i & Penyerahan Sertifikat
+### 10. Pemanggilan Siswa/i & Penyerahan Sertifikat
 
 🕓 08.20 – 08.30  
 📌 PIC: Bagian Acara (Ust Utsman / Ust Hendro yang manggil)
@@ -107,11 +109,10 @@
 - [x] Daftar nama dan pencapaian
 - [ ] Daftar lomba yang diikuti anak
 - [ ] PPT dengan profil siswa (nama, ttl, ayah, bunda, hafalan, prestasi, hobi, cita2)
-- [ ] video diputar sebelum pemanggilan
 
 ---
 
-### 9. Kesan dan Pesan Wali Murid
+### 11. Kesan dan Pesan Wali Murid
 
 🕓 08.40 – 08.45  
 📌 PIC: Wali Murid (Bpk. Dwi Budi Rahardjo)
@@ -120,7 +121,7 @@
 
 ---
 
-### 10. Tausiyah & Nasehat
+### 12. Tausiyah & Nasehat
 
 🕓 08.45 – 08.55  
 📌 PIC: Ustadz Haidar Abdullah Bawazier
@@ -129,7 +130,7 @@
 
 ---
 
-### 11. Pidato Bahasa Arab Putra
+### 13. Pidato Bahasa Arab Putra
 
 🕓 08.55 – 09.00  
 📌 PIC: Perwakilan Siswa Kelas 9 (Ust Ilham)
@@ -138,7 +139,7 @@
 
 ---
 
-### 12. Pidato Bahasa Inggris Putri
+### 14. Pidato Bahasa Inggris Putri
 
 🕓 09.00 – 09.05  
 📌 PIC: Perwakilan Siswi Kelas 9 (Usth Silmi)
@@ -148,7 +149,7 @@ Rania
 
 ---
 
-### 13. Nasyid Siswi
+### 15. Nasyid Siswi
 
 🕓 09.05 – 09.10  
 📌 PIC: Perwakilan Siswi Kelas 9 (Usth Sabila)
@@ -158,7 +159,7 @@ Rania
 
 ---
 
-### 14. Pembagian Hadiah
+### 16. Pembagian Hadiah
 
 🕓 09.10 – 09.25  
 📌 PIC: MC – Ust Sabil, Ust Fahmi atau Ust Utsman
@@ -167,14 +168,14 @@ Rania
 
 ---
 
-### 15. Do'a
+### 17. Do'a
 
 🕓 09.25 – 09.30  
 📌 PIC: Ust Walid / Ust Ja'far
 
 ---
 
-### 16. Penutupan
+### 18. Penutupan
 
 🕓 09.30 – 09.35  
 📌 PIC: MC – Ust Sabil, Ust Fahmi
