@@ -98,6 +98,11 @@
 📌 PIC: Bapak Denis Taroreh
 
 ---
+
+### 8.5. Pembacaan Prestasi Siswa
+📌 PIC: Ustadz Antum
+
+---
 ### 9. Pemutaran Video Siswa
 ---
 
