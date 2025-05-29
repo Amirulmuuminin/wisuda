@@ -99,11 +99,8 @@
 
 ---
 
-### 8.5. Pembacaan Prestasi Siswa
+### 9. Pembacaan Prestasi Siswa dan Pemutaran Video Siswa
 📌 PIC: Ustadz Utsman
-
----
-### 9. Pemutaran Video Siswa
 ---
 
 ### 10. Pemanggilan Siswa/i & Penyerahan Sertifikat
