@@ -100,7 +100,7 @@
 ---
 
 ### 8.5. Pembacaan Prestasi Siswa
-📌 PIC: Ustadz Antum
+📌 PIC: Ustadz Utsman
 
 ---
 ### 9. Pemutaran Video Siswa
