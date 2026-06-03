@@ -29,8 +29,8 @@
 
 ### 1. Registrasi
 
-🕓 07.30 – 08.00  
-📌 PIC: Bag Tamu – Ust Agus, Ust Basiyr, Usth Elma, Usth Binta
+🕓 09.45 – 09.55  
+📌 PIC: Bag Tamu – Ust Basiyr, Ust Majid
 
 - [x] Meja registrasi (OB)
 - [x] Daftar hadir (sekretaris)
@@ -39,8 +39,8 @@
 
 ### 2. Photo Booth
 
-🕓 07.30 – 08.00  
-📌 PIC: Usth Habibah dan Usth Rahma
+🕓 09.55 – 10.05  
+📌 PIC: Ust Sabil dan Ust Agus
 
 - [x] Dekorasi booth (vendor foto)
 - [x] Kamera (vendor foto)
@@ -49,34 +49,25 @@
 
 ### 3. Tasmi' Putra
 
-🕓 08.00 – 08.05  
-📌 PIC: Siswa Kelas 9 Putra (Ust Nawir/Ust Fauzan)
+🕓 10.05 – 10.20  
+📌 PIC: Siswa Kelas 9 Putra (Ust Walid)
 
 - [x] Persiapan
 
 ---
 
-### 4. Tasmi' Putri
+### 4. Pembukaan
 
-🕓 08.05 – 08.10  
-📌 PIC: Siswi Kelas 9 Putri (Usth Harmi)
-
-- [x] Persiapan
-
----
-
-### 5. Pembukaan
-
-🕓 08.10 – 08.20  
-📌 PIC: MC – Ust Sabil, Ust Fahmi
+🕓 10.20 – 10.25
+📌 PIC: MC – Ust Rasyid, Ust Fahmi
 
 - [x] Persiapan
 
 ---
 
-### 6. Sambutan Ketua Yayasan
+### 5. Sambutan Ketua Yayasan
 
-🕓 08.30 – 08.35  
+🕓 10.25 – 10.35
 📌 PIC: Bapak Agung Triyono Safar
 
 - [ ] Konfirmasi Melalui Surat dan Whatsapp
