@@ -74,18 +74,18 @@
 
 ---
 
-### 7. Sambutan Mudir
+### 6. Sambutan Mudir
 
-🕓 08.30 – 08.35  
+🕓 10.35 – 10.45
 📌 PIC: Ust Muhammad Habibi, Lc. M.Pd
 
 - [ ] Konfirmasi Melalui Surat dan Whatsapp
 
 ---
 
-### 8. Sambutan Kepala Sekolah
+### 9. Sambutan Kepala Sekolah
 
-🕓 08.35 – 08.40  
+🕓 10.45 – 10.55
 📌 PIC: Bapak Denis Taroreh
 
 ---
