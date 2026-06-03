@@ -2,19 +2,19 @@
 
 ### 1. Panggung
 
-- [x] Sudah dibooking
+- [ ] Sudah dibooking
 
 ### 2. Vendor Foto
 
-- [x] Sudah dikonfirmasi & siap dokumentasi acara
+- [ ] Sudah dikonfirmasi & siap dokumentasi acara
 
 ### 3. Dekorasi & Desain
 
-- [x] Sudah dibuat dan dicetak
+- [ ] Sudah dibuat dan dicetak
 
 ### 4. Konsumsi
 
-- [x] Snack & makanan utama sudah dipesan & terjadwal
+- [ ] Snack & makanan utama sudah dipesan & terjadwal
 
 ### 5. PPT & Media
 
@@ -22,8 +22,8 @@
 
 ### 6. Daftar Penerima Penghargaan
 
-- [x] Nama-nama murid penerima sudah disusun
-- [x] Sertifikat sudah dibuat sesuai kategori
+- [ ] Nama-nama murid penerima sudah disusun
+- [ ] Sertifikat sudah dibuat sesuai kategori
 
 ---
 
@@ -32,8 +32,8 @@
 🕓 09.45 – 09.55  
 📌 PIC: Bag Tamu – Ust Basiyr, Ust Majid
 
-- [x] Meja registrasi (OB)
-- [x] Daftar hadir (sekretaris)
+- [ ] Meja registrasi (OB)
+- [ ] Daftar hadir (sekretaris)
 
 ---
 
@@ -42,8 +42,8 @@
 🕓 09.55 – 10.05  
 📌 PIC: Ust Sabil dan Ust Agus
 
-- [x] Dekorasi booth (vendor foto)
-- [x] Kamera (vendor foto)
+- [ ] Dekorasi booth (vendor foto)
+- [ ] Kamera (vendor foto)
 
 ---
 
@@ -52,7 +52,7 @@
 🕓 10.05 – 10.20  
 📌 PIC: Siswa Kelas 9 Putra (Ust Walid)
 
-- [x] Persiapan
+- [ ] Persiapan
 
 ---
 
@@ -61,7 +61,7 @@
 🕓 10.20 – 10.25
 📌 PIC: MC – Ust Rasyid, Ust Fahmi
 
-- [x] Persiapan
+- [ ] Persiapan
 
 ---
 
@@ -83,99 +83,63 @@
 
 ---
 
-### 9. Sambutan Kepala Sekolah
+### 7. Sambutan Kepala Sekolah
 
 🕓 10.45 – 10.55
 📌 PIC: Bapak Denis Taroreh
 
 ---
 
-### 9. Pembacaan Prestasi Siswa dan Pemutaran Video Siswa
+### 8. Pembacaan Prestasi Siswa dan Penyerahan Ijasah
+
+🕓 10.55 – 11.05
 📌 PIC: Ustadz Utsman
 ---
 
-### 10. Pemanggilan Siswa/i & Penyerahan Sertifikat
+### 9. Kesan dan Pesan Wali Murid
 
-🕓 08.20 – 08.30  
-📌 PIC: Bagian Acara (Ust Utsman / Ust Hendro yang manggil)
-
-- [x] Daftar nama dan pencapaian
-- [ ] Daftar lomba yang diikuti anak
-- [ ] PPT dengan profil siswa (nama, ttl, ayah, bunda, hafalan, prestasi, hobi, cita2)
-
----
-
-### 11. Kesan dan Pesan Wali Murid
-
-🕓 08.40 – 08.45  
-📌 PIC: Wali Murid (Bpk. Dwi Budi Rahardjo)
-
-- [x] Konfirmasi Melalui Surat dan Whatsapp
-
----
-
-### 12. Tausiyah & Nasehat
-
-🕓 08.45 – 08.55  
-📌 PIC: Ustadz Haidar Abdullah Bawazier
+🕓 11.05 – 11.15
+📌 PIC: Wali Murid (Bpk. Yasser Farid Abdurrachman)
 
 - [ ] Konfirmasi Melalui Surat dan Whatsapp
 
 ---
 
-### 13. Pidato Bahasa Arab Putra
+### 10. Kesan dan Pesan Wisudawan
 
-🕓 08.55 – 09.00  
-📌 PIC: Perwakilan Siswa Kelas 9 (Ust Ilham)
+🕓 11.15 – 11.25
+📌 PIC: Semua Wisudawan
 
-- [ ] Persiapan
-
----
-
-### 14. Pidato Bahasa Inggris Putri
-
-🕓 09.00 – 09.05  
-📌 PIC: Perwakilan Siswi Kelas 9 (Usth Silmi)
-Rania
-
-- [x] Persiapan
+- [ ] Konfirmasi Lisan
 
 ---
 
-### 15. Nasyid Siswi
+### 11. Pemanggilan Siswa/i & Penyerahan Sertifikat
 
-🕓 09.05 – 09.10  
-📌 PIC: Perwakilan Siswi Kelas 9 (Usth Sabila)
+🕓 11.25 – 11.35
+📌 PIC: Bagian Acara (Ust Utsman / Ust Hendro yang manggil)
 
-- [x] Persiapan
-- [x] Media yang ditampilkan
-
----
-
-### 16. Pembagian Hadiah
-
-🕓 09.10 – 09.25  
-📌 PIC: MC – Ust Sabil, Ust Fahmi atau Ust Utsman
-
-- [x] Daftar penerima sesuai kategori
+- [ ] Daftar nama dan pencapaian
+- [ ] Daftar lomba yang diikuti anak
+- [ ] PPT dengan profil siswa (nama, ttl, ayah, bunda, hafalan, prestasi, hobi, cita2)
 
 ---
 
-### 17. Do'a
+### 12. Do'a
 
-🕓 09.25 – 09.30  
-📌 PIC: Ust Walid / Ust Ja'far
-
----
-
-### 18. Penutupan
-
-🕓 09.30 – 09.35  
-📌 PIC: MC – Ust Sabil, Ust Fahmi
+🕓 11.35 – 11.40
+📌 PIC: Ust Syahrun
 
 ---
 
-### 17. Foto Bersama & Lain-lain
+### 13. Penutupan
 
-🕓 09.35 – Selesai  
+🕓 11.40 – 11.43
+📌 PIC: MC
+
+---
+
+### 14. Foto Bersama & Lain-lain
+
+🕓 11.43 – 11.50 
 📌 PIC: Bag Foto Booth
